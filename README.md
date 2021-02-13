@@ -1,2 +1,10 @@
-# telegraf-ink-bot
-NodeJS telegraf bot implementarion using ink flow contol
+# Telegraf Ink Bot
+
+This is NodeJS telegram bot implementation using ink flow control. 
+
+## Installation
+
+## Live demo
+Please have a look at [the demo!](t.me/HostedDemoBot)
+
+
